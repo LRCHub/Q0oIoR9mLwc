@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Dark Necessities",
+  "base_artist": "Red Hot Chili Peppers",
+  "createdAt": "2026-02-10T03:14:21.211722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dark Necessities",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/01_Dark_Necessities_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dark Necessities",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/02_Dark_Necessities_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dark Necessities",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/03_Dark_Necessities_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dark Necessities",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/04_Dark_Necessities_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dark Necessities (Live in Paris)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/05_Dark_Necessities_(Live_in_Paris)_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dark necessities",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/06_Dark_necessities_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dark Necessities",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/07_Dark_Necessities_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dark Necessities (Live in Paris)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/08_Dark_Necessities_(Live_in_Paris)_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dark Necessities",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/pl_01_Dark_Necessities_Red_Hot_Chili_Peppers.txt"
+    }
+  ]
+}
